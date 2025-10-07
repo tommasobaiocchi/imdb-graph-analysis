@@ -46,12 +46,5 @@ Users should download and extract them manually before running the analysis.
 ## License
 
 This project is released under the [MIT License](LICENSE).  
-It is provided for educational and research purposes only.  
+It is provided for educational and research purposes only. 
 
----
-
-## Author
-
-Developed by **Tommaso Baiocchi**  
-
-   
