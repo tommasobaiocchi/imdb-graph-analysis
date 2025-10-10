@@ -16,8 +16,6 @@ The project demonstrates the use of **graph data structures and algorithms** app
   - Betweenness Centrality (Brandes algorithm with sampling)
   - Closeness Centrality
 - Shortest path search between two actors (Six Degrees of Separation).
-- Export of results to CSV for further analysis.
-
 ---
 
 ## Dataset
