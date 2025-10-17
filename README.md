@@ -1,6 +1,6 @@
 # IMDb Graph Analysis
 
-This project implements a **social network analysis** of the IMDb dataset.  
+This project implements a social network analysis of the IMDb dataset.  
 Actors are represented as nodes in a graph, and an undirected edge is created between two actors if they have appeared in the same movie.  
 
 The project demonstrates the use of **graph data structures and algorithms** applied to real-world data.
