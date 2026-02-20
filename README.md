@@ -3,18 +3,18 @@
 This project implements a social network analysis of the IMDb dataset. 
 Actors are represented as nodes in a graph, and an undirected edge is created between two actors if they have appeared in the same movie.  
 
-The project demonstrates the use of **graph data structures and algorithms** applied to real-world data.
+The project demonstrates the use of graph data structures and algorithms applied to real-world data.
 
 ---
 
 ## Features
 
-- Construction of an actor collaboration graph from IMDb datasets.
-- Graph representation using adjacency lists for memory efficiency.
+- Construction of an actor collaboration graph from IMDb datasets
+- Graph representation using adjacency lists for memory efficiency
 - Implementation of centrality measures:
-  - Degree Centrality
-  - Betweenness Centrality (Brandes algorithm with sampling)
-  - Closeness Centrality
+  - Degree centrality
+  - Betweenness centrality (Brandes algorithm with sampling)
+  - Closeness centrality
 - Shortest path search between two actors (Six Degrees of Separation).
 ---
 
@@ -27,20 +27,10 @@ The following files are required:
 - `title.basics.tsv.gz`  
 - `title.principals.tsv.gz`  
 
-⚠️ Due to their size, these files are **not included** in this repository.  
+⚠️ Due to their size, these files are **not** included in this repository.  
 Users should download and extract them manually before running the analysis.
 
 ---
-
-## Usage
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/tommasobaiocchi/imdb-graph-analysis.git
-   ```
-
----
-
 ## License
 
 This project is released under the [MIT License](LICENSE).  
